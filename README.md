@@ -16,7 +16,7 @@ The board is intended as a development and experimentation platform for hardware
 
 ## Routing
 
-![alt text](Routes.png)
+![alt text](Assets/Routes.png)
 
 ## Features
 
