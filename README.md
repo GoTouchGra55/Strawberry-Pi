@@ -2,7 +2,7 @@
 
 A Raspberry Pi-4 form factor STM32 development board designed as a compact computing platform.
 
-![Strawberry Pi](StrawberryPi.png)
+![Strawberry Pi](Assets/StrawberryPi.png)
 
 ## Overview
 
@@ -57,12 +57,8 @@ The board provides dedicated:
 | 3 | SMD Capacitors | $7.98 | Daraz Nepal |
 | | **Total** | **$170.56** | |
 
-## Authors 👥
+## Author
 
-### Shaurya (Electronics)
+### Shaurya
 
 Contact: [Email](shauryatamang.dev@gmail.com)
-
-### Krish (CAD)
-
-View: [Github](https://github.com/unknowngamer69/)
